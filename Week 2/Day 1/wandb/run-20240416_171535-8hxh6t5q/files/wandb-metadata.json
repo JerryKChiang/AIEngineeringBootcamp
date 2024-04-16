@@ -1,0 +1,48 @@
+{
+    "os": "macOS-12.5-arm64-arm-64bit",
+    "python": "3.11.8",
+    "heartbeatAt": "2024-04-16T09:15:36.700596",
+    "startedAt": "2024-04-16T09:15:35.916771",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "Python RAQA Example.ipynb",
+    "codePathLocal": null,
+    "git": {
+        "remote": "git@github.com:JerryKChiang/AIEngineeringBootcamp.git",
+        "commit": "23565bad7a72a41cc11195af5decdfe947516fc8"
+    },
+    "email": "JerryKChiang@gmail.com",
+    "root": "/Users/jerrykchiang/Documents/AIMakerClass/code/AI-Engineering",
+    "host": "Jerrys-MacBook-Pro.local",
+    "username": "jerrykchiang",
+    "executable": "/opt/homebrew/Caskroom/miniforge/base/envs/llmops-course/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3504,
+        "min": 600,
+        "max": 3504
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3504,
+            "min": 600,
+            "max": 3504
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1858.1917190551758,
+            "used": 1098.5182075500488
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 24.0
+    }
+}
